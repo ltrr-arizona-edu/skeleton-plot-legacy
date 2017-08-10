@@ -1,0 +1,4 @@
+<H1>Pattern Matching the Skeleton Plot and Date Chronology</H1>
+<P>By sliding the skeleton plot left and right relative to the master, the mirror image of the pattern of marks was found. &nbsp; Even the "b" mark for ring #17 of the sample matches that for the year 1933 of the master. &nbsp; When you see a match, you can then determine the start and end years of the sample. &nbsp; For this sample, the start year for ring #0 of 1916 and an end year for ring #30 of 1946.
+<P><APPLET code="PatternMatching.class" width=470 height=300>&nbsp;</APPLET>
+<P>To match patterns on the applet, show the master chronology and switch the graphs to an appropriate size for your computer monitor. &nbsp; Then, move the master chronology left or right by clicking and holding the left mouse button in the time series portion of the chronology graph and moving the mouse. &nbsp; The goal is to find where the marks on the skeleton plot match those of the master in mirror image.

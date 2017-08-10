@@ -1,0 +1,26 @@
+&nbsp;<BR>
+<H1>Pattern Matching with a Chronology</H1>
+<P>What is a dated master dendrochronology?  See figure at right:
+<UL>
+<IMG SRC="chronology.gif" HEIGHT=201 WIDTH=285 ALIGN=RIGHT>
+<LI> Constructed from previously crossdated samples
+<LI> Has calendar years, 1895 to 1926, in this case
+<LI> Time series of standardized growth indices
+<UL>
+<LI> Average of 1.0, normal growth
+<LI> Minimum of 0.0, below-average no growth
+<LI> Maximum of 2.0, above-average to great growth
+</UL>
+<LI> Marked as if it were a skeleton plot
+<UL>
+<LI> Small indices represented by long marks hanging down (e.g., 1919)
+<LI> Large indices represented by "b" marks (e.g., 1922 and 1926)
+</UL>
+</UL>
+Good idea: To see how to make marks when skeleton plotting, look at the master chronology to see what values of ring growth merit a long mark versus no mark at all versus a "b" mark
+<P>
+to match its pattern of marks in mirror image and thus find the exact years of formation of all rings. &nbsp;. &nbsp; ().
+
+<P>By sliding the skeleton plot left and right relative to the master, the mirror image of the pattern of marks was found. &nbsp; Even the "b" mark for ring #17 of the sample matches that for the year 1933 of the master. &nbsp; When you see a match, you can then determine the start and end years of the sample. &nbsp; For this sample, the start year for ring #0 of 1916 and an end year for ring #30 of 1946.
+
+<P>To match patterns on the applet, show the master chronology and switch the graphs to an appropriate size for your computer monitor. &nbsp; Then, move the master chronology left or right by clicking and holding the left mouse button in the time series portion of the chronology graph and moving the mouse. &nbsp; The goal is to find where the marks on the skeleton plot match those of the master in mirror image.

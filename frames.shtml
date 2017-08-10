@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<TITLE>FRAMED PAGE</TITLE>
+</HEAD>
+<FRAMESET COLS="14%,*" FRAMEBORDER=NO BORDER=NO >
+<FRAME SRC="toc.htm" FRAMEBORDER=NO>
+<FRAME SRC="crossdatestub.htm" NAME="text" FRAMEBORDER=NO>
+</FRAMESET>
+<NOFRAME>
+
+<DIV ALIGN="center">
+<IMG SRC="http://tree.ltrr.arizona.edu/~martin/LTRR_images/mlk178fz.jpg" ALT="aternate to image" WIDTH="500" HEIGHT="140">
+</DIV>
+<!--#include virtual="crossdate2.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC="http://tree.ltrr.arizona.edu/~martin/LTRR_images/mlk178fz.jpg" ALT="aternate to image">
+<IMG SRC="growthstructure.gif" ALT="alternate">
+</DIV>
+<!--#include virtual="treegrowth.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC="coniferrings.gif" ALT="aternate to image">
+<IMG SRC="growthstructure.gif" ALT="alternate">
+</DIV>
+<!--#include virtual="ringstructure.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC=" compsens.gif" ALT="aternate to image">
+</DIV>
+<!--#include virtual="sensitivity.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC=" exampleapplication.gif " ALT="aternate to image">
+</DIV>
+<!--#include virtual="exampleapplication.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC="exampleplot.gif" ALT="alternate to image">
+</DIV>
+<!--#include virtual="exampleplot.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC="patternmatching.gif" ALT="alternate to image">
+</DIV>
+<!--#include virtual="patternmatching.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC="ringanomalies.gif" ALT="alternate to image">
+</DIV>
+<!--#include virtual="ringanomalies.txt"-->
+
+<DIV ALIGN="center">
+<IMG SRC="relative.gif" ALT="alternate to image">
+</DIV>
+<!--#include virtual="relative.txt"-->
+
+<A HREF="SkeletonPlot18.htm">You Try It!</A>
+</NOFRAME>
+</HTML>

@@ -1,0 +1,65 @@
+A:link   { color: #CC0000; background-color: #FFFFCC; text-decoration: underline }
+A:visited{ color: #330099; background-color: #FFFFCC; text-decoration: underline }
+A:active { color: #FF3300; background-color: #FFFFCC; text-decoration: underline }
+
+H1 { colocr: #000000; background-color: #FFFFCC;
+     font-family: helvetica, sans-serif; font-size: 20pt; font-weight: normal; line-height: 0.25; text-align: center; clear: left; text-decoration: none }
+H2 { color: #000000; background-color: #FFFFCC;
+     font-family: helvetica, sans-serif; font-size: 125%; font-weight: normal;
+     text-align: center; clear: left }
+H3 { color: #FFFFFF; background-color: #FFFFCC;
+     font-family: helvetica, sans-serif; font-size: 112%; font-weight: normal;
+     text-align: left; clear: left }
+H4 { color: #FFFFFF; background-color: #FFFFCC;
+     font-family: helvetica, sans-serif; font-size: 100%; font-weight: normal;
+     text-align: left; clear: left }
+H5 { color: #FFFFFF; background-color: #FFFFCC;
+     font-family: helvetica, sans-serif; font-size: medium; font-weight: normal;
+     text-align: left; clear: left }
+
+BODY { color: #000000; background-color: #FFFFCC;
+       font-family: helvetica, sans-serif; font-size: medium }
+P    { color: #000000; background-color: #FFFFCC;
+       font-family: helvetica, sans-serif; font-size: medium; margin: 1em; text-decoration: none }
+OL   { color: #000000; background-color: #FFFFCC;
+       font-family: helvetica, sans-serif; font-size: medium }
+UL   { color: #000000; background-color: #FFFFCC;
+       font-family: helvetica, sans-serif; font-size: medium }
+DL   { color: #000000; background-color: #FFFFCC;
+      font-family: helvetica, sans-serif; font-size: medium }
+DT   { color: #000000; background-color: #FFFFCC;
+       font-family: helvetica, sans-serif; font-size: 112%; font-weight: bold }
+DD   { color: #000000; background-color: #FFFFCC;
+       font-family: helvetica, sans-serif; font-size: medium }
+PRE  { color: #000000;  background-color: #FFFFCC;
+       font-size: medium }
+EM   { color: #CC3300; font-style: normal }
+
+TABLE  { color: #FFFFFF; background-color: #FFFFCC; font-family: helvetica, sans-serif;
+         border-color: #FFFFFF; border-width: 1px; border-style: solid;
+         vertical-align: baseline }
+TH     { color: #000000; background-color: #FFFFCC;
+         font-family: helvetica, sans-serif font-size: medium }
+TD     { color: #000000; background-color: #FFFFCC;
+         font-family: helvetica, sans-serif; font-size: medium }
+LABEL  { color: #000000; background-color: #FFFFCC;
+         font-family: helvetica, sans-serif }
+INPUT  { color: #000000; background-color: #FFFFCC;
+         font-family: helvetica, sans-serif }
+
+IMG.ICONIC { float: left; margin: 1em; height: 64px; width: 64px }
+
+.DISPLAYFIG { margin: 12px 32px }
+.FORMPANEL   { color: #FFFFFF; background-color: #FFFFCC;
+               font-family: helvetica, sans-serif }
+.FORMPANE    { color: #FFFFFF; background-color: #FFFFCC;
+               font-family: helvetica, sans-serif }
+.FORMSUBPANE { color: #FFFFFF; background-color: #FFFFCC;
+               font-family: helvetica, sans-serif }
+.LOWKEY { color: #000000; background-color: #FFFFFF }
+.SEQUENCE { text-align: right }
+.BOXED { color: #000000; background-color: #FFFF33;
+         border: groove 0.5em #9999CC; padding:1em; width: 25%;
+         font-family: helvetica, sans-serif; font-size: small;
+         float: left; margin: 1em } 
+

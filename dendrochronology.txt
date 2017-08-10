@@ -1,0 +1,21 @@
+&nbsp;<BR>
+<H1>The Dated Master Dendrochronology </H1>
+<P>What is a dated master dendrochronology?  See figure at right:
+<UL>
+<IMG SRC="chronology.gif" HEIGHT=201 WIDTH=285 ALIGN=RIGHT>
+<LI> Constructed from previously crossdated samples
+<LI> Has calendar years, 1895 to 1926, in this case
+<LI> Time series of standardized growth indices
+<UL>
+<LI> Average of 1.0, normal growth
+<LI> Minimum of 0.0, below-average no growth
+<LI> Maximum of 2.0, above-average to great growth
+</UL>
+<LI> Marked as if it were a skeleton plot
+<UL>
+<LI> Small indices represented by long marks hanging down (e.g., 1919)
+<LI> Large indices represented by "b" marks (e.g., 1922 and 1926)
+</UL>
+</UL>
+Good idea: To see how to make marks when skeleton plotting, look at the master chronology to see what values of ring growth merit a long mark versus no mark at all versus a "b" mark
+<HR>

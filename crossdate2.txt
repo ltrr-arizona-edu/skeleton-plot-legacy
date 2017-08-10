@@ -1,0 +1,26 @@
+&nbsp;
+<H1>Dendrochronological Crossdating by Skeleton Plotting</H1>
+<P>Dendrochronology: the study of (<I>ology</I>) time (<I>chronos</I>), or more specifically events in past time, using trees (<I>dendros</I>), or more specifically the growth rings of trees
+<P>Applications in dendrochronology include:
+<UL>
+<LI><EM>ecology</EM>: past fires, insect outbreaks, forest stand structure
+<LI><EM>climatology</EM>: past droughts or cold periods
+<LI><EM>geology</EM>: past earthquakes, volcanic eruptions
+<LI><EM>anthropology</EM>: past construction, habitation, and abandonment of societies
+</UL>
+<P>Common objectives:
+<UL>
+<LI>Put the present in perspective of the past 
+<LI>Better understand current environmental processes and conditions
+</UL>
+<P>Requirement: exact year of formation of each growth ring is known:
+<UL>
+<LI>Dendrochronologists crossdate: also known as pattern matching
+<LI> Dendrochronologists don't merely count rings 
+</UL>
+<P><EM>Crossdating</EM> is the procedure of matching patterns of growth variation through time across many trees.&nbsp; Trees living within a particular stand or forest often exhibit the same pattern of ring-growth variation through time because they all experience the same limiting factors on growth (typically climate, but other factors can also affect growth).&nbsp; To crossdate samples from many trees, dendrochronologists compare variation in ring width across trees to temporally align the common pattern of variation.&nbsp; Unfortunately, it can be difficult to compare ring-width patterns of two or more specimens of actual wood because ring growth is often microscopic and trees typically grow at differing rates.&nbsp; Thus, it's often difficult to observe rings from many specimens at the same time in order to crossdate them, i.e., match their pattern of variation.&nbsp; Accordingly, dendrochronologists have developed a method called skeleton plotting whereby growth variation of wood specimens is represented on graph paper and then multiple graph strips are compared instead of actual wood.&nbsp; The objective of this web based presentation is to provide pertinent information about dendrochronological crossdating by skeleton plotting and then provide users the opportunity to actually try it by playing with a Java applet that realistically simulates skeleton plotting and pattern matching.
+
+<P>If you are unaware of dendrochronology or inexperienced in crossdating, you should read and understand the accompanying web pages that are linked to the left to understand various concepts of tree growth, wood anatomy, dendrochronology, and crossdating; if you're experienced you may still wish to review these pages.&nbsp; Ultimately, you should try for yourself crossdating by skeleton plotting.&nbsp; Note that while the default settings of the applet create a reasonably simple example problem, you may change various settings to make more difficult--and fully realistic--crossdating problems.&nbsp; After obtaining a good understanding of crossdating and succeeding at doing it with the applet, please visit the web pages of the  Laboratory of Tree-Ring Research at The University of Arizona to learn about research, teaching, and extension opportunities in dendrochronology.
+
+<P>Lastly, please take the time to give us feedback by filling in the evaluation form.&nbsp; We constantly revise the applet and this set of explanatory pages in order to increase their teaching-learning performance.&nbsp; Your feedback is an important part of this revision process.
+
